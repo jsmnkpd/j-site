@@ -14,7 +14,7 @@
             <a href="https://orangeblushzine.wixsite.com/home/obz5" target="_blank">
 			<h3> sunshine baby </h3> </a> 
             <a href="https://kalopsialit.org/issue-iv/jasmine-kapadia/" target="_blank">
-			<h3> fever dream</h3> </a> 
+			<h3> fever dream</h3> </a>
             <a href="https://www.kissingdynamitepoetry.com/jasmine-kapadia-my-piano-teacher.html" target="_blank">
 			<h3> my piano teacher's halloween party</h3> </a> 
             <a href="https://www.theaurorajournal.org/winter-2020-volume/rediscovery" target="_blank">
@@ -32,8 +32,10 @@
 			<h3> in response to eliezer wiesel’s night</h3> </a> 
             <a href="https://www.catharticlitmagazine.com/magazine/nine-thoughts-for-nine-lives-by-jasmine-kapadia-16-california" target="_blank">
 			<h3> nine thoughts for nine lives</h3> </a> 
-            <a href="https://www.catharticlitmagazine.com/magazine/nine-thoughts-for-nine-lives-by-jasmine-kapadia-16-california" target="_blank">
-			<h3> nine thoughts for nine lives</h3> </a> 
+            <a href="https://www.samefacescollective.com/post/dictionary-entries" target="_blank">
+			<h3> dictionary entries</h3> </a>
+            <a href="https://eunoiareview.wordpress.com/2020/08/01/english-at-the-breakfast-market/" target="_blank">
+			<h3> english at the breakfast market</h3> </a>
         </div>
 </template>
 
