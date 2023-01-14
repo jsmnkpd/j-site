@@ -6,6 +6,8 @@
 			<h2> Good Morning America </h2> </a>
             <a href="https://www.kqed.org/arts/13895040/santa-clara-county-announces-finalists-for-youth-poet-laureate" target="_blank">
 			<h2> KQED </h2> </a>
+            <a href="https://www.youtube.com/watch?v=qL_z54VDYzU&ab_channel=JasmineKapadia" target="_blank">
+			<h2> Full House Lit Mag Podcast </h2> </a>
             <a href="https://midpenpost.org/2021/05/31/paly-junior-explores-cultural-identity-through-poetry/" target="_blank">
 			<h2> MidPeninsula Post </h2> </a> 
             <a href="https://www.colorizationcollective.org/blog/jasmine-kapadia-embraces-her-culture-through-poetry" target="_blank">

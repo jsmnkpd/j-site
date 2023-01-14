@@ -6,7 +6,7 @@
                 <li><a href="#">home</a></li>
                 <li><NuxtLink to="about">about</NuxtLink></li>
                 <li><NuxtLink to="read">read</NuxtLink></li>
-                <li><a href="#">watch</a></li>
+                <li><NuxtLink to="watch">watch</NuxtLink></li>
                 <li><NuxtLink to="press">press</NuxtLink></li>
                 <li><NuxtLink to="contact">contact</NuxtLink></li>
             </ul>
